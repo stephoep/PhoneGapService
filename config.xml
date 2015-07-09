@@ -7,13 +7,14 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name></name>
+    <name>PhoneGapService</name>
 
     <description>
-      
+      PhoneGapBG Test
     </description>
 
     <author>
+        PhoneGap
     </author>
     
     <gap:plugin name="org.apache.cordova.geolocation"/>
